@@ -8,6 +8,7 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-0078D4?logo=flask&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%2339457E.svg?&style=for-the-badge&logo=docker&logoColor=white" />
