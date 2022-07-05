@@ -13,3 +13,6 @@
   <br/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+- LeetCode profile: <a href="https://leetcode.com/Kyrylo-Ktl/"></a>
+- CodeWars profile: <img src="https://www.codewars.com/users/Kyrylo.Ktl/badges/large" />
