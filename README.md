@@ -20,4 +20,4 @@
 </p>
 
 - LeetCode profile: [here](https://leetcode.com/Kyrylo-Ktl/)
-- CodeWars profile: <img src="https://www.codewars.com/users/Kyrylo.Ktl/badges/small" />
+- CodeWars profile: <img src="https://www.codewars.com/users/Kyrylo-Ktl/badges/small" />
