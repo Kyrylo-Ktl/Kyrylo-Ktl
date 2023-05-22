@@ -1,23 +1,23 @@
-### Hi there 👋
+<h1 align="center"><b>Hi, I'm Kyrylo Kotelevets </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 💻 Python Coder
-- 🎓 Study at NURE
-- 🇺🇦 Live in Kharkiv, Ukraine
-- 🚀 My main skills are
+<h3 align="center">A passionate Big Data Engineer & Web Developer from Ukraine 🇺🇦</h3>
+<br/>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-0078D4?logo=flask&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%2339457E.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+
+
+<h2 align="center">Github stats :bar_chart:</h2>
+ 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrylo-ktl&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="kyrylo-ktl" width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kyrylo-ktl&show_icons=true&locale=en&layout=compact" alt="kyrylo-ktl" width="460"/>
 </p>
 
-- LeetCode profile: [here](https://leetcode.com/Kyrylo-Ktl/)
-- CodeWars profile: <img src="https://www.codewars.com/users/Kyrylo-Ktl/badges/small" />
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=kyrylo-ktl&exclude_days=Sun%2CSat&card_width=500" alt="kyrylo-ktl"/>
+</p>
+
+
+-----
+Credit: [Kyrylo-Ktl](https://github.com/Kyrylo-Ktl)
+
+Last edited on: 22/05/2023
