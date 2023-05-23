@@ -15,6 +15,7 @@
 <p align="center">
   <img align="center" src="https://streak-stats.demolab.com?user=kyrylo-ktl&exclude_days=Sun%2CSat&card_width=500" alt="kyrylo-ktl"/>
 </p>
+<br/>
 
 
 
@@ -27,6 +28,7 @@
   <a href="https://leetcode.com/Kyrylo-Ktl/"><img alt="LeetCode" title="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://hackerrank.com/kyrylo_ktl"><img alt="Hackerrank" title="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
+<br/>
 
 -----
 Credit: [Kyrylo-Ktl](https://github.com/Kyrylo-Ktl)
